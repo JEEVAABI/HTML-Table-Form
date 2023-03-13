@@ -1,1 +1,24 @@
-/* css file */
+.NameTable,tr,td,th {
+    border: solid 1px #000;
+    border-collapse: collapse;
+
+}
+.one{
+    background-color: rgb(126, 180, 227);
+}
+.two
+{
+    background-color: rgb(109, 224, 134);
+}
+.three{
+    background-color: rgb(199, 83, 195);
+
+}
+.four{
+    background-color: rgb(155, 117, 219);
+
+}
+.five{
+    background-color: rgb(60, 155, 155);
+
+}
